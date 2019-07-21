@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-11T06:01:05Z" name="Default suite" finished-at="2019-07-11T06:01:11Z" duration-ms="5409">
+    <groups>
+    </groups>
+    <test started-at="2019-07-11T06:01:05Z" name="Default test" finished-at="2019-07-11T06:01:11Z" duration-ms="5409">
+      <class name="com.automationpractice3.login.LoginTestCases">
+        <test-method is-config="true" signature="launchWebDriver()[pri:0, instance:com.automationpractice3.login.LoginTestCases@b62fe6d]" started-at="2019-07-11T06:01:05Z" name="launchWebDriver" finished-at="2019-07-11T06:01:08Z" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebDriver -->
+        <test-method signature="Login_with_invalid_userid()[pri:0, instance:com.automationpractice3.login.LoginTestCases@b62fe6d]" started-at="2019-07-11T06:01:08Z" name="Login_with_invalid_userid" finished-at="2019-07-11T06:01:11Z" duration-ms="3004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_invalid_userid -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automationpractice3.login.LoginTestCases@b62fe6d]" started-at="2019-07-11T06:01:11Z" name="closeDriver" finished-at="2019-07-11T06:01:11Z" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automationpractice3.login.LoginTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
